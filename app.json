@@ -26,6 +26,12 @@
     "plugins": [
       "expo-web-browser"
     ],
-    "scheme": "mickyhillstore"
+    "scheme": "mickyhillstore",
+    "extra": {
+      "eas": {
+        "projectId": "dd71f72a-0729-46f9-a481-3078bdc06e52"
+      }
+    },
+    "owner": "mickyhill"
   }
 }

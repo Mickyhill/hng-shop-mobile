@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "appVersionSource": "local"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://ybrakjypiqnhhfzptwka.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_tUZr4NvPu1c1BOUTmH-MPg_R_eBy3d6",
+        "EXPO_PUBLIC_API_URL": "https://mickyhill-store.vercel.app"
+      }
+    }
+  }
+}
